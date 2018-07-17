@@ -1,0 +1,10 @@
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\bin\Debug\calc.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\bin\Debug\calc.exe
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\bin\Debug\calc.pdb
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\obj\Debug\calc.exe
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\calc\calc\obj\Debug\calc.pdb
