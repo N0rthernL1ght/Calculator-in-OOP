@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//класс калькулятора с реализацией
 namespace calc
 {
     class Calc : InterfaceCalc1
